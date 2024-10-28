@@ -21,8 +21,6 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=blue&fontColor=yellow"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D260F7&width=435&lines=Python+Backend+Developer" alt="Typing SVG" /></a>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 앞으로 꾸준히 성장할 개발자 입니다. </div> 
     </div>
     <div style="text-align: left;">
